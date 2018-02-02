@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 838d15dac30e74441b7f299a29b8cf30
+timeCreated: 1515755910
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gaslight
+  fontNames:
+  - Gaslight
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 03e68b6af2f3b4572b79c622831bfea9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

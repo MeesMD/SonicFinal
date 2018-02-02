@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0ec44dabddfe7e84797ae3cc5f8a4211
+timeCreated: 1515755879
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sonic Title Font
+  fontNames:
+  - Sonic Title Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f88acffa414d246a7b4644b9db10a212, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
